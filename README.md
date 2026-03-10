@@ -101,4 +101,4 @@ React • Node.js • Python Flask • MySQL • Groq LLM
 
 ## 🐍 Contribution Snake
 
-![snake gif](https://github.com/YOURUSERNAME/YOURUSERNAME/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/mandipsinhrathod/mandipsinhrathod/blob/output/github-contribution-grid-snake.svg)
