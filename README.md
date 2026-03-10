@@ -16,6 +16,8 @@
 
 ---
 
+NexEdu – AI Multi-Agent Learning Platform
+
 # 🚀 Featured Project
 
 ## NexEdu – AI Multi-Agent Educational Ecosystem
@@ -96,3 +98,7 @@ React • Node.js • Python Flask • MySQL • Groq LLM
 ---
 
 ⭐ "Building intelligent systems that shape the future."
+
+## 🐍 Contribution Snake
+
+![snake gif](https://github.com/YOURUSERNAME/YOURUSERNAME/blob/output/github-contribution-grid-snake.svg)
