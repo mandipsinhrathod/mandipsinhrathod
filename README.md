@@ -51,11 +51,11 @@ React • Node.js • Python Flask • MySQL • Groq LLM
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api?username=mandipsinhrathod&show_icons=true&theme=tokyonight" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOURUSERNAME&theme=tokyonight" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mandipsinhrathod&theme=tokyonight" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mandipsinhrathod&layout=compact&theme=tokyonight" />
 
 </p>
 
@@ -65,7 +65,7 @@ React • Node.js • Python Flask • MySQL • Groq LLM
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOURUSERNAME&theme=tokyonight&row=1&column=6"/>
+<img src="https://github-profile-trophy.vercel.app/?username=mandipsinhrathod&theme=tokyonight&row=1&column=6"/>
 
 </p>
 
@@ -74,7 +74,7 @@ React • Node.js • Python Flask • MySQL • Groq LLM
 # 👀 Profile Visitors
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=YOURUSERNAME&label=Profile%20Views&color=blue&style=flat" />
+<img src="https://komarev.com/ghpvc/?username=mandipsinhrathod&label=Profile%20Views&color=blue&style=flat" />
 </p>
 
 ---
@@ -83,11 +83,11 @@ React • Node.js • Python Flask • MySQL • Groq LLM
 
 <p align="center">
 
-<a href="https://linkedin.com/in/YOURLINK">
+<a href="[https://linkedin.com/in/YOURLINK](https://www.linkedin.com/in/mandipsinhrathod32/)">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="https://github.com/YOURUSERNAME">
+<a href="https://github.com/mandipsinhrathod">
 <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
 </a>
 
